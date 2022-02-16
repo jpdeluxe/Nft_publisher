@@ -1,0 +1,1 @@
+Projeto criado com o intuito de consolidar os conceitos básicos de html e css, criando uma página fictícia sobre um nft fictício.
